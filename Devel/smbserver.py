@@ -1,15 +1,4 @@
 #!/usr/bin/env python
-# SECUREAUTH LABS. Copyright 2018 SecureAuth Corporation. All rights reserved.
-#
-# This software is provided under under a slightly modified version
-# of the Apache Software License. See the accompanying LICENSE file
-# for more information.
-#
-# Simple SMB Server example.
-#
-# Author:
-#  Alberto Solino (@agsolino)
-#
 
 import sys
 import argparse
